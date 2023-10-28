@@ -12,7 +12,7 @@ https://taskmanagercustom.netlify.app/
 
 # Install locally
 
-1. clone this repo and https://taskmanagercustom.netlify.app/ as frontend
+1. clone this repo  https://github.com/Raktim-Bhuyan/Task-Manager-Frontend as frontend
 2. Install dependencies (npm install)
 3. npm start
 4. Same for managerclient repo
