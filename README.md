@@ -2,9 +2,9 @@
 
 # Website is live
 
-https://managerclient.vercel.app/
+https://taskmanagercustom.netlify.app/
 
-1. PROJECT MANAGER WEBAPP
+1. TASK AND PROJECT MANAGER WEBAPP
 2. CREATE, UPDATE, DELETE, SCHEDULE TASKS IN YOUR
    PROJECTS
 3. TECHNOLOGY STACK: REACTJS, EXPRESS JS, MONGODB,
@@ -12,7 +12,7 @@ https://managerclient.vercel.app/
 
 # Install locally
 
-1. clone this repo and https://github.com/sksachin7z2/managerclient as frontend
+1. clone this repo and https://taskmanagercustom.netlify.app/ as frontend
 2. Install dependencies (npm install)
 3. npm start
 4. Same for managerclient repo
